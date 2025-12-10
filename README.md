@@ -8,9 +8,9 @@
 
 &nbsp;
 
+## About Me
 <img align="left" src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="200">
 
-<h2 align="center">About Me</h2>
 <ul align="">
     <li>🌱 I am a full-stack developer but prefers frontend design.</li>
     <li>🌱 Develops games with C# in the Godot Engine.</li>
