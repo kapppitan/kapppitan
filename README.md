@@ -6,12 +6,15 @@
 </p>
 <p align="center">I am graduate of Bachelor's Degree in Information Technology. Currently working as a web developer and a passionate game developer.</p>
 
-&nbsp;
 
-## About Me
-<img align="left" src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="200">
+<h2></h2>
+<pictue>
+    <img align="left" src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="200">
+</picture>
+<br />
 
-<ul align="">
+<h3 align="left">About Me</h3>
+<ul align="left">
     <li>🌱 I am a full-stack developer but prefers frontend design.</li>
     <li>🌱 Develops games with C# in the Godot Engine.</li>
     <li>🌱 Interested in hardware programming.</li>
