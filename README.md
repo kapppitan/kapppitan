@@ -1,6 +1,14 @@
 ![Blue skies](https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies.jpg)
 # <p align="center">Hello! I'm Kap.</p>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/kapppitan?style=flat-square&logo=github&logoColor=005c9f&color=005c9f&labelColor=cfd9e3&label=Stars" style="margin-right: 5px;">
+    <img src="https://img.shields.io/github/followers/kapppitan?style=flat-square&logo=github&logoColor=005c9f&color=005c9f&labelColor=cfd9e3&label=Followers">
+</p>
+<p align="center">I am graduate of Bachelor's Degree in Information Technology. Currently working as a web developer and a passionate game developer.</p>
 
+<p>
+    <img src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_cropped.jpg">
+</p>
 <!--
 **kapppitan/kapppitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
