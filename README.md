@@ -6,9 +6,21 @@
 </p>
 <p align="center">I am graduate of Bachelor's Degree in Information Technology. Currently working as a web developer and a passionate game developer.</p>
 
-<p>
-    <img src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_cropped.jpg">
-</p>
+<table>
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="200">
+        </td>
+        <td>
+            <p align="center" style="font-size: 25px;">🌤️ About Me</p>
+            <p>🌱 I am a full-stack developer but prefers frontend design.</p>
+            <p>🌱 Develops games with C# in the Godot Engine.</p>
+            <p>🌱 Interested in hardware programming.</p>
+            <p>🌱 Would like to help nature in the future!</p>
+        </td>
+    </tr>
+</table>
+
 <!--
 **kapppitan/kapppitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
