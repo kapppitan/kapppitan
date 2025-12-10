@@ -4,14 +4,13 @@
     <img src="https://img.shields.io/github/stars/kapppitan?style=flat-square&logo=github&logoColor=005c9f&color=005c9f&labelColor=cfd9e3&label=Stars">
     <img src="https://img.shields.io/github/followers/kapppitan?style=flat-square&logo=github&logoColor=005c9f&color=005c9f&labelColor=cfd9e3&label=Followers">
 </p>
-<p align="center">I am graduate of Bachelor's Degree in Information Technology. Currently working as a web developer and a passionate game developer.</p>
 
+<p align="center">I am graduate of Bachelor's Degree in Information Technology. Currently working as a web developer and a passionate game developer.</p>
 
 <h2></h2>
 <pictue>
     <img align="left" src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="200">
 </picture>
-<br />
 
 <h3 align="left">About Me</h3>
 <ul align="left">
@@ -20,18 +19,3 @@
     <li>🌱 Interested in hardware programming.</li>
     <li>🌱 Would like to help nature in the near future!</li>
 </ul>
-
-<!--
-**kapppitan/kapppitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
