@@ -1,4 +1,4 @@
-![Blue skies](https://github.com/kapppitan/kapppitan/images/blue_skies.jpg)
+![Blue skies](https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies.jpg)
 # <p align="center">Hello! I'm Kap.</p>
 
 <!--
