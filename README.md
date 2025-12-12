@@ -10,7 +10,7 @@
 ## 
 
 <pictue>
-    <img align="left" src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="150" />
+    <img align="right" src="https://raw.githubusercontent.com/kapppitan/kapppitan/main/images/blue_skies_small.jpg" width="150" />
 </picture>
 
 ### About Me
