@@ -15,13 +15,10 @@
 
 ### About Me
 <ul align="left">
-    <li>🌱 I am a full-stack developer but prefers frontend design.</li>
-    <li>🌱 Develops games with C# in the Godot Engine.</li>
-    <li>🌱 Interested in hardware programming.</li>
-    <li>🌱 Would like to help nature in the near future!</li>
+    <li>I am a full-stack web developer but I generally prefer frontend design.</li>
+    <li>Develops games with C# in the Godot Engine.</li>
+    <li>Interested in hardware programming.</li>
+    <li>Would like to help nature in the near future!</li>
 </ul>
 
 <h2></h2>
-
-### <p align="center">Github Status</p>
-
