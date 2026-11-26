@@ -13,6 +13,6 @@
 ### About Me
 <ul align="left">
     <li>I do web development with Laravel and other frameworks.</li>
-    <li>I develop my <a href="https://kapishorrified.itch.io/">games</a> on Godot using C# and GDScript for web exports.</li>
+    <li>I develop my <a href="https://kapishorrified.itch.io/">games</a> in Godot using C# and GDScript for web exports.</li>
     <li>Still continuing learning new technologies and languages.</li>
 </ul>
